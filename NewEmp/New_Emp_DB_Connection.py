@@ -10,5 +10,3 @@ mycursor.execute("Select * from EmployeeDB.employee")
 
 for i in mycursor:
     print(i)
-
-    #3test
